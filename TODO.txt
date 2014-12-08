@@ -1,0 +1,7 @@
+DONE - Endgame 
+DONE - SKip intro
+DONE - ignore tabs
+
+DONE - game reset function
+
+Death Spikes
